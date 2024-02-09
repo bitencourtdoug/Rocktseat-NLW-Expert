@@ -1,7 +1,7 @@
 # React  Expert
 
 <aside>
-💡 Feito com 💜 pela Rocketseat
+💡 Projeto Feito em conjunto com 💜 pela Rocketseat
 
 </aside>
 
